@@ -9,7 +9,7 @@
         <i class="bi bi-clock"></i> Monday - Saturday, 8AM to 10PM
       </div>
       <div class="d-flex align-items-center">
-        <i class="bi bi-phone"></i> Call us now +1 5589 55488 55
+        <i class="bi bi-phone"></i> Call us now +251945719223
       </div>
     </div>
   </div>
@@ -27,8 +27,8 @@
         <!-- Slide 1 -->
         <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg)">
           <div class="container">
-            <h2>Welcome to <span>Medicio</span></h2>
-            <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel.</p>
+            <h2>Welcome to <span>Hamza </span></h2>
+            <p> At Hamza General Hospital, our commitment to providing high-quality healthcare is unwavering. With a rich history of serving our community for [number of years], we have established ourselves as a trusted and leading healthcare institution. Our mission is to deliver compassionate, comprehensive, and patient-centered care to individuals and families    </p>
             <a href="#about" class="btn-get-started scrollto">Read More</a>
           </div>
         </div>
@@ -36,17 +36,17 @@
         <!-- Slide 2 -->
         <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg)">
           <div class="container">
-            <h2>Lorem Ipsum Dolor</h2>
-            <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel.</p>
-            <a href="#about" class="btn-get-started scrollto">Read More</a>
+            <h2>Appointment at Hamza General Hospital</h2>
+            <p>At Hamza General Hospital, we prioritize your health and well-being. Scheduling an appointment with us is easy and convenient. Whether you need a routine check-up, specialist consultation, or any other medical service, we're here to assist you. Please follow the steps below to book your appointment</p>
+            <a href="#appointment" class="btn-get-started scrollto">Make Appointment</a>
           </div>
         </div>
 
         <!-- Slide 3 -->
         <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg)">
           <div class="container">
-            <h2>Sequi ea ut et est quaerat</h2>
-            <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel.</p>
+            <h2>እንኳን ወደ ሃምዛ ሆስፒታል በሰላም መጡ </h2>
+            <p>በሐምዛ አጠቃላይ ሆስፒታል ከፍተኛ ጥራት ያለው የጤና አገልግሎት ለመስጠት ያደረግነው ቁርጥ ውሳኔ የማይናወጥ ነው። ማኅበረሰባችንን ለበርካታ ዓመታት በማገልገል ባሳለፍነው ታላቅ ታሪክ፣ እምነት የሚጣልበት እና ታዋቂ የጤና ተቋማት ሆነን ራሳችንን አቋቁመናል።ተልእኳችን ለግለሰቦች እና ቤተሰቦች ርኅሩኅ፣ የተሟላ፣ እና በትዕግሥት ላይ ያተኮረ እንክብካቤ ማድረስ ነው።</p>
             <a href="#about" class="btn-get-started scrollto">Read More</a>
           </div>
         </div>
