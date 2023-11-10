@@ -37,8 +37,9 @@
         <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg)">
           <div class="container">
             <h2>Appointment at Hamza General Hospital</h2>
-            <p>At Hamza General Hospital, we prioritize your health and well-being. Scheduling an appointment with us is easy and convenient. Whether you need a routine check-up, specialist consultation, or any other medical service, we're here to assist you. Please follow the steps below to book your appointment</p>
-            <a href="#appointment" class="btn-get-started scrollto">Make Appointment</a>
+            <p>At Hamza General Hospital, we prioritize your health and well-being. Scheduling an appointment with us is easy and convenient. Whether you need a routine check-up, specialist consultation, or any other medical service, we're here to assist you. Please follow the button below to book your appointment</p>
+           <p>በሃምዛ አጠቃላይ ሆስፒታል ለጤንነትዎ እና ለደህንነትዎ ቅድሚያ እንስጥ። ከእኛ ጋር ቀጠሮ ለመያዝ ፕሮግራም ማውጣት ቀላልና አመቺ ነው ። የዕለት ተዕለት ምርመራ, ስፔሻሊስት ምክር, ወይም ማንኛውም ሌላ የሕክምና አገልግሎት ያስፈልግዎት, እኛ እዚህ የመጣነው እርስዎን ለመርዳት ነው. እባክዎ ቀጠሮዎን ለመያዝ ከታች ያለውን ቁልፍ ይከተሉ</p>
+            <a href="#appointment" class="btn-get-started scrollto"  data-toggle="tooltip" data-placement="top" title="ቀጠሮ ለመያዝ">Make Appointment</a>
           </div>
         </div>
 
@@ -74,7 +75,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="fas fa-heartbeat"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
+              <h4 class="title"><a href="">Specialized medical treatments</a></h4>
               <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
             </div>
           </div>
@@ -82,7 +83,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="fas fa-pills"></i></div>
-              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
+              <h4 class="title"><a href="">General medical consultations</a></h4>
               <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
             </div>
           </div>
@@ -90,7 +91,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
               <div class="icon"><i class="fas fa-thermometer"></i></div>
-              <h4 class="title"><a href="">Magni Dolores</a></h4>
+              <h4 class="title"><a href="">Diagnostic testing</a></h4>
               <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
             </div>
           </div>
@@ -98,7 +99,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
               <div class="icon"><i class="fas fa-dna"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
+              <h4 class="title"><a href=""></a></h4>
               <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
             </div>
           </div>
@@ -127,28 +128,32 @@
 
         <div class="section-title">
           <h2>About Us</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Welcome to Hamza General Hospital, a leading healthcare facility dedicated to providing high-quality medical care to our patients.At Hamza General Hospital, we pride ourselves on our commitment to excellence in patient care, medical expertise, and cutting-edge technology. </p>
         </div>
 
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
+            <img src="assets/img/about.jpg" class="img-fluid" alt="" >
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
+            <h3>What sets us apart at Hamza General Hospital is our dedication to personalized care and our commitment to excellence.</h3>
             <ul>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+              <li><i class="bi bi-check-circle"></i> We strive to create a warm and welcoming environment for our patients, ensuring that they feel comfortable and supported throughout their healthcare journey. Our team of experienced and compassionate medical professionals is dedicated to providing the best possible care for our patients, tailoring treatment plans to meet their individual needs.</li>
+              <li><i class="bi bi-check-circle"></i>our hospital offers a wide range of medical services, including emergency care, surgery, maternity care, pediatrics, cardiology, oncology, and more, allowing us to meet the diverse needs of our community.</li>
+              <li><i class="bi bi-check-circle"></i> At Hamza General Hospital, we uphold the highest standards of medical ethics and professionalism, ensuring that our patients receive the highest quality of care. </li>
             </ul>
+           
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+        
+ Our team of experienced and compassionate medical professionals is dedicated to providing the best possible care for our patients, ensuring that they receive personalized treatment and support throughout their healthcare journey.
+
+Our hospital offers a wide range of medical services, including emergency care, surgery, maternity care, pediatrics, cardiology, oncology, and much more. We strive to meet the diverse needs of our community by offering comprehensive healthcare services that are tailored to each patient's individual needs.
+
+At Hamza General Hospital, we understand the importance of creating a warm and welcoming environment for our patients. Our state-of-the-art facilities are designed to provide a comfortable and safe setting for our patients and their families, ensuring that they feel at ease during their time with us.
+
+We are committed to upholding the highest standards of medical ethics and professionalism, and we continuously invest in the latest medical technology and training for our staff to ensure that we are at the forefront of healthcare innovation.
+
+Thank you for considering Hamza General Hospital for your healthcare needs. We are honored to serve you and look forward to providing you with exceptional medical care.
             </p>
           </div>
         </div>
@@ -686,7 +691,7 @@
 
         <div class="section-title">
           <h2>Contact</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>If you would like to learn more about our services or schedule an appointment, please contact us at [phone number] or visit our website at [website]. Our team is here to assist you and provide you with the personalized care and support you deserve. Thank you for considering Hamza General Hospital for your healthcare needs.</p>
         </div>
 
       </div>
@@ -706,21 +711,21 @@
                 <div class="info-box">
                   <i class="bx bx-map"></i>
                   <h3>Our Address</h3>
-                  <p>A108 Adam Street, New York, NY 535022</p>
+                  <p>Addis Ababa,Ethiopia</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="info-box mt-4">
                   <i class="bx bx-envelope"></i>
                   <h3>Email Us</h3>
-                  <p>info@example.com<br>contact@example.com</p>
+                  <p><a href="mailto:mehbubazed@gmail.com?subject=Mail from our Website">mehbubazed@gmail.com</a><br></p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="info-box mt-4">
                   <i class="bx bx-phone-call"></i>
                   <h3>Call Us</h3>
-                  <p>+1 5589 55488 55<br>+1 6678 254445 41</p>
+                  <p>+25145719223<br>+251996759312</p>
                 </div>
               </div>
             </div>
